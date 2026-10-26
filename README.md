@@ -4,7 +4,7 @@
 
 **重点推荐：PCB1沉金、PCB2丝印（彩色丝印）。两款均按板厚 1.2 mm、白色阻焊下单。**
 
-[视频演示：哔哩哔哩 BV15iJ86fE7V](https://www.bilibili.com/video/BV15iJ86fE7V/) · [嘉立创下单教程](docs/ORDERING.md) · [四块板与工程说明](docs/HARDWARE.md) · [NFC 焊接与使用](docs/NFC.md)
+[视频展示(p1)与下单教程（p2）：哔哩哔哩 BV15iJ86fE7V](https://www.bilibili.com/video/BV15iJ86fE7V/) · [嘉立创下单教程](docs/ORDERING.md) · [四块板与工程说明](docs/HARDWARE.md) · [NFC 焊接与使用](docs/NFC.md)
 
 ![PCB1 沉金与 PCB2 彩色丝印成品](preview/pcb1-pcb2-finished.png)
 
@@ -13,7 +13,7 @@
 | | PCB1沉金 | PCB2丝印（彩色丝印） |
 | --- | --- | --- |
 | 外观 | 白色底板与金属金色人物、文字和装饰 | 全彩人物插画与卡牌边框 |
-| 对应素材 | [可编辑 PPT](artwork/pcb1/冷鸢yousa_PCB.pptx) | [用户提供的原图](artwork/pcb2/yousa图片1.png) |
+| 对应素材 | [可编辑 PPT](artwork/pcb1/冷鸢yousa_PCB.pptx) | [原始彩图](artwork/pcb2/yousa图片1.png) |
 | 图案实现 | 铜层图形与阻焊开窗，沉金形成金色效果 | 顶层彩色丝印图片，配合工程内铜层和阻焊层 |
 | 板厚 / 阻焊 | **1.2 mm / 白色** | **1.2 mm / 白色** |
 | 焊盘喷镀 / 表面处理 | **沉金** | **沉金**，按嘉立创彩色丝印工艺要求 |
