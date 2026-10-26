@@ -8,6 +8,9 @@
 
 ![PCB1 沉金与 PCB2 彩色丝印成品](preview/pcb1-pcb2-finished.png)
 
+**本项目也开源至立创开源平台。**
+https://oshwhub.com/hysdanny/project_xzajrzhx
+
 ## 两种重点效果
 
 | | PCB1沉金 | PCB2丝印（彩色丝印） |
@@ -39,6 +42,8 @@
 ![PCB1 成品、编辑器图层和现场展示](preview/pcb1-design-and-display.png)
 
 ![NFC 芯片参考照片](preview/nfc-chip.jpg)
+
+![COB-CUID芯片带锡IC复制]https://mobile.yangkeduo.com/goods1.html?ps=PyWbijQs9e
 
 工程原说明标注芯片为 **COB-CUID**。照片仅作为选型外观参考，具体封装尺寸、协议及存储能力需要核对购买型号。PCB 下单默认得到裸板，NFC 芯片需另购并焊接。
 
